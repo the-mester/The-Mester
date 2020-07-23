@@ -1,0 +1,68 @@
+
+body{
+	background: white;
+}
+.pink
+{
+	background-color: pink;
+}
+.blue
+{
+	background-color: lightblue;
+}
+.red{
+	background-color: red;
+}
+.black
+{
+	background-color: grey;
+}
+.darkblack
+{
+	background-color: black;
+}
+.col
+{
+	margin:20px 20px 20px 20px;
+}
+ul ,li
+{
+	display: inline-block;
+	list-style-type: none;
+}
+.lightgrey
+{
+	background-color: #EEEBEB;
+}
+/*.col-md-1, .col-md-3,.col-md
+{
+	border: 1px solid black;
+}*/
+a{
+	color: white;
+}
+a:hover{
+	text-decoration: none;
+	color:black;
+}
+#browse
+{
+	border: 1px solid grey;
+}
+#browseSection
+{
+	background-color: #FCF8F7 ;
+}
+.browseHead
+{
+	text-align: center;
+}
+.col-12
+{
+	padding: 20px 20px 20px 20px;
+}
+.end
+{
+	text-align: center;
+	color:white;
+}
